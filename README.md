@@ -16,5 +16,6 @@ https://filebox.ece.vt.edu/˜jbhuang/teaching/ece5554-4554/fa16/lectures/Lecture
 
 Note: Some of the images in the CalTech101 data set do not have three channels – you can skip those images.  
 
-• Task 2: Implement a program which extracts and stores feature descriptors for all the images in the data set.  
+• Task 2: Implement a program which extracts and stores feature descriptors for all the images in the data set. 
+
 • Task 3: Implement a program which, given an image ID and a value “k”, returns and visualizes the most similar k images   based on each of the visual model -you will select the appropriate distance/similarity measure for each feature model. For each match, also list the corresponding distance/similarity score.  
